@@ -19,21 +19,21 @@ const Informacion = () => {
       <img src={mueble1} className="d-block w-100 tam" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
         <h5>MI PROYECTO</h5>
-        <p>PAMELA INGRID ENINAS REJAS</p>
+        <p>PAMELA INGRID ECINAS REJAS</p>
       </div>
     </div>
     <div className="carousel-item">
       <img src={mueble2} className="d-block w-100  tam" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
         <h5>MI PROYECTO</h5>
-        <p>PAMELA INGRID ENINAS REJAS</p>
+        <p>PAMELA INGRID ECINAS REJAS</p>
       </div>
     </div>
     <div className="carousel-item">
       <img src={mueble3} className="d-block w-100 tam" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
         <h5>MI PROYECTO</h5>
-        <p>PAMELA INGRID ENINAS REJAS</p>
+        <p>PAMELA INGRID ECINAS REJAS</p>
       </div>
     </div>
   </div>
