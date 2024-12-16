@@ -18,8 +18,8 @@ const Informacion = () => {
     <div className="carousel-item active">
       <img src={mueble1} className="d-block w-100 tam" alt="..."/>
       <div className="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5>MI PROYECTO</h5>
+        <p>PAMELA INGRID ENINAS REJAS</p>
       </div>
     </div>
     <div className="carousel-item">
