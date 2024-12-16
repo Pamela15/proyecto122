@@ -1,0 +1,25 @@
+.sofasP{
+    width: 100%;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.tamSo{
+    height: 50vh;
+    width: 80%;
+}
+.imaS{
+    height: 30vh;
+    width: 100%;
+}
+@media (max-width: 800px) {
+    .sofasP{
+        height: 200vh;
+
+    }
+    .tamSo{
+        height: 70vh;
+    }
+}

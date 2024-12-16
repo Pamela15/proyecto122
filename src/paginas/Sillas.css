@@ -1,0 +1,25 @@
+
+.sillas{
+    height: 135vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tamC{
+    height: 65vh;
+    width: 50vh;
+    margin-left: 10px;
+    background-color: rgb(112, 5, 19);
+    color: white;
+}
+.imgC{
+    height: 33vh;
+
+}
+@media (max-width: 800px) {
+    .sillas{
+        height: 240vh;
+
+    }
+}

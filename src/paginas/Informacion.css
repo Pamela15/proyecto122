@@ -1,0 +1,37 @@
+.pbox{
+    display: flex;
+    height: 130vh;
+    justify-content: center;
+    
+
+}
+
+.box{
+    width: 80%;
+    height: 60vh;
+    margin-top: 10px;
+    
+}
+.tam{
+    height: 50vh;
+    
+}
+.perfiles{
+    margin-top: 10px;
+    height: 40vh;
+    width: 100%;
+    background-color: azure;
+}
+.btn-primary.active,
+.btn-primary:active {
+  background-color: #28a745;
+  border-color: #28a745;
+  /* Puedes personalizar otros estilos según tus necesidades */
+  color: #ffffff; /* Cambia el color del texto al blanco, por ejemplo */
+}
+@media (max-width: 800px) {
+    .pbox{
+        height: 140vh;
+
+    }
+}

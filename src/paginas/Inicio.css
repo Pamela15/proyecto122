@@ -1,0 +1,60 @@
+.centro {
+    height: 160vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.bienvenida {
+    height: 50vh;
+    width: 95%;
+
+    display: flex;
+    margin-top: 10px;
+}
+
+.hijo1 {
+    background-color: aqua;
+    height: 50vh;
+    width: 50%;
+}
+
+.hijo2 {
+    height: 50vh;
+    width: 50%;
+}
+
+.hijo3 {
+    background-color: rgb(69, 129, 129);
+    height: 50vh;
+    width: 50%;
+}
+
+.hijo4 {
+    background-color: rgb(25, 59, 33);
+    height: 50vh;
+    width: 50%;
+}
+.imgIni{
+    height: 50vh;
+    width: 100%;
+}
+.textIniC{
+    text-align: center;
+}
+.IniCentro{
+    background-color: rgb(112, 5, 19);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+.IniModal{
+    background-color: rgb(112, 5, 19);
+}

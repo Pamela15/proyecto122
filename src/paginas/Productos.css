@@ -1,0 +1,25 @@
+.tarjetas{
+    height: 160vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.imgTam{
+    height: 38vh;
+    width: 100%;
+}
+.productoB{
+    background-color: rgb(112, 5, 19);
+    color: white;
+}
+@media (max-width: 800px) {
+    
+    .imgTam{
+        height: 20vh;
+
+    }
+}

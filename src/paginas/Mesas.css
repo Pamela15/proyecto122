@@ -1,0 +1,51 @@
+.centroM{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+.mesa{
+    height: 32vh;
+    width: 80vh;
+    background-color: rgb(112, 5, 19);
+    margin: 10px;
+    display: flex;
+    border-style: initial;
+    border-radius: 30px;
+}
+.img1{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(112, 5, 19);
+    border-style: initial;
+    border-radius: 30px;
+
+}
+.text1{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(112, 5, 19);
+    border-style: initial;
+    border-radius: 30px;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.imaM{
+    width: 100%;
+    border-style: initial;
+    border-radius: 30px;
+    height: 100%;
+
+}
+@media (max-width: 800px) {
+    .centroM{
+        height: 210vh;
+
+    }
+}
