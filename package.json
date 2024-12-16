@@ -1,8 +1,8 @@
 {
   "name": "inf122",
-  "homepage": "https:/Pamela15.github.io/proyecto122",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https:/Pamela15.github.io/proyecto122",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
